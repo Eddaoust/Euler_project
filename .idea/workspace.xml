@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7006c27e-3c3f-4eef-8a19-1eb91bb74555" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/02/evenFibonacciNumbers.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/01/multiplesOf3And5.php" afterPath="$PROJECT_DIR$/01/multiplesOf3And5.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,12 +26,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="multiplesOf3And5.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="multiplesOf3And5.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/multiplesOf3And5.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evenFibonacciNumbers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02/evenFibonacciNumbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#343#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/01/multiplesOf3And5.php" />
+        <option value="$PROJECT_DIR$/02/evenFibonacciNumbers.php" />
       </list>
     </option>
   </component>
@@ -163,6 +176,11 @@
               <item name="euler_project" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="01" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="euler_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="euler_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="02" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522177481331</updated>
       <workItem from="1522177482512" duration="2041000" />
-      <workItem from="1522179753860" duration="1199000" />
+      <workItem from="1522179753860" duration="1799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3240000" />
+    <option name="totallyTimeSpent" value="3840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -265,8 +283,18 @@
     <entry file="file://$PROJECT_DIR$/01/multiplesOf3And5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/evenFibonacciNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#343#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
