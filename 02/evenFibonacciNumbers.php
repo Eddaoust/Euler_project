@@ -7,6 +7,22 @@
     find the sum of the even-valued terms.
  */
 
-function fibonacci(){
-
+function fibonacci($a, $b){
+    $c = 0;
+    $array = [1, 2];
+    $arrayPair = [];
+    while($c < 3500000){
+        $c = $a + $b;
+        $a = $b;
+        $b = $c;
+        $array[] = $c;
+    }
+    foreach ($array as $value){
+        if($value % 2 == 0){
+            $arrayPair[] = $value;
+        }
+    }
+    echo array_sum($arrayPair);
 }
+
+fibonacci(1, 2);
