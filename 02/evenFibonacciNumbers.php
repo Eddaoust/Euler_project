@@ -26,3 +26,5 @@ function fibonacci($a, $b){
 }
 
 fibonacci(1, 2);
+
+// 4613732
